@@ -8,8 +8,9 @@ class EmailParser
   
   attr_accessor
   
-  def initialize
+  def initialize(emails)
     
-end  
+    
+  end  
   
 end
