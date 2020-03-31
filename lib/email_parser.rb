@@ -7,4 +7,8 @@
 class EmailParser
   
   
+  def initialize
+    
+end  
+  
 end
