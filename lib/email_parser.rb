@@ -18,4 +18,6 @@ class EmailAddressParser
     email_array = @emails.split(", ")
   end
   
+  
+  
 end
